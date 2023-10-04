@@ -1,0 +1,32 @@
+* {
+    background-color:lavender
+}
+
+.main h1 {
+    text-align: center;
+    color:goldenrod;
+    margin: 30px;
+}
+
+.main h2 {
+    color: brown;
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+}
+
+.recipe {
+    margin: 5rem;
+    font-size: large;
+    line-height: 2em;
+}
+
+a {
+    margin: 2rem;
+    font-size: large;
+    font-weight: bold;
+}
